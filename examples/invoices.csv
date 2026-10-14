@@ -1,0 +1,5 @@
+invoice_id,customer,email,amount,currency,due_date,status
+INV-001,Ornek Atolye,odeme@example.com,1250.00,TRY,2026-09-20,open
+INV-002,Demo Tasarim,finans@example.org,400.00,EUR,2026-10-01,unpaid
+INV-003,Ornek Atolye,odeme@example.com,90.00,TRY,2026-10-20,open
+INV-004,Demo Tasarim,finans@example.org,200.00,EUR,2026-09-03,paid

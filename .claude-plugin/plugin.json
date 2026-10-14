@@ -1,0 +1,8 @@
+{
+  "name": "kobi-is-akislari",
+  "displayName": "KOBİ İş Akışları (Bağımsız)",
+  "version": "0.1.0",
+  "description": "Türkçe, bağımsız KOBİ iş akışı taslakları: fatura, CRM, sözleşme ve müşteri yanıtları. Dış işlemler için açık insan onayı gerekir.",
+  "author": { "name": "Community contributors" },
+  "keywords": ["small-business", "turkish", "invoices", "crm", "draft-first"]
+}

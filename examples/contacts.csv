@@ -1,0 +1,5 @@
+contact_id,name,email,phone
+C-001,Deneme Kisi,deneme@example.com,5550000001
+C-002,Deneme Kisi,Deneme@Example.com,5550000002
+C-003,,eksik@example.org,
+C-004,Isimsiz Musteri,,5550000004

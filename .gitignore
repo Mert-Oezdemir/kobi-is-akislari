@@ -1,0 +1,29 @@
+# Local configuration, customer data and generated exports
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+secrets/
+private/
+data/private/
+customer-data/
+out/
+outputs/
+*.log
+*.sqlite
+*.db
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+# Editors
+.DS_Store
+.idea/
+.vscode/
